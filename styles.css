@@ -106,7 +106,7 @@ header{
 .header2 {
   font-weight: lighter;
   height: 500px;
-  background-image: url("/Users/jhonmark/desktop/Ironhack/lab-html-module-exercise-master/starter-code/images/city-scape.svg");
+  background-image: url("./images/city-scape.svg");
   background-repeat: no-repeat;
   background-position: 0, 0;
   background-size: cover;
@@ -159,7 +159,7 @@ header p {
 .section1-foto{
   display: block;
   height: 270px;
-  margin: 0 80px 130px 0;
+  margin: 0 80px 200px 0;
   float: left;
 }
 
@@ -211,7 +211,7 @@ header p {
 }
 
 .section2 {
-  background-image: url("/Users/jhonmark/desktop/Ironhack/lab-html-module-exercise-master/starter-code/images/forklift.svg");
+  background-image: url("./images/forklift.svg");
   height: 500px;
   background-repeat: no-repeat;
   background-position: 0, 0;
